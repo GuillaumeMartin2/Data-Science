@@ -1,0 +1,4 @@
+Création d'un indicateur de dangerosité des routes à destination d'une application d'aide à la conduite
+
+A partir de deux bases de données ( un dataset géocodé des accidents routiers français de 2014 à 2019 et d'une API en ligne des caractéristiques des routes), l'objectif de ce projet est de déterminer via un indicateur la dangerosité de chaque route en France afin de prévenir l'utilisateur.
+L'algorithme trie donc les routes en fonction du nombre d'accidents et des caractéristiqus physiques de celles-ci, et lui attribue un critère de dangerosité.
